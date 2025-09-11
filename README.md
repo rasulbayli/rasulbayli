@@ -12,9 +12,7 @@
  
  🔭 I’m currently working on **Bayliweb & High Candles**
  
- 🌱 I’m currently learning **Docker, AWS, Next.js**
-
-💬 Ask me about **Python, PHP, JavaScript, Java, C#, HTML/CSS... or anything [here](https://github.com/rasuldadashbayli/rasuldadashbayli/issues)**
+ 🌱 I’m currently learning **C#, Java, Python**
 
 ⚡ Fun fact: **I speak multiple human and programming languages 😉**
 
@@ -31,13 +29,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cs,nodejs,express,mysql,mongodb,react,nextjs,tailwind,bootstrap,git,github,vscode,figma" />
-</div>
 
-<br/>
 <hr/>
 
 <div align="center">
