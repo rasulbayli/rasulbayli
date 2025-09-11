@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Bayliweb & High Candles**
  
- 🌱 I’m currently learning **C#, Java, Python**
+ 🌱 I’m currently learning **C#, Java, PHP, Python**
 
 ⚡ Fun fact: **I speak multiple human and programming languages 😉**
 
