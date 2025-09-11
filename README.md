@@ -27,9 +27,6 @@
   </a>
 </div>
 
- <hr/>
- 
-
 <hr/>
 
 <div align="center">
