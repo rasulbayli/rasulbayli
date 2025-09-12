@@ -40,10 +40,10 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
+      - name: Push new files to the gh-pages branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: gh-pages
           build_dir: dist
           commit_message: Update snake animations
         env:
